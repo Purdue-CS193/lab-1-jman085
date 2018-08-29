@@ -1,6 +1,6 @@
 # Jarrett's first CS193 Lab
 
-**Favorite Things Aout CS193**
+**Favorite Things About CS193**
 
 - Led by undergraduate students
 - Instructors are well-versed in coding and know what we are going through
